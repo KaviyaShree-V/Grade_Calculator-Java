@@ -1,4 +1,4 @@
-# 🎓 Student Grade Calculator (Java)
+# 🎓 Student Grade Calculator
 
 A simple command-line based Java application that allows students to calculate their average percentage and determine their final grade based on their subject marks.
 
